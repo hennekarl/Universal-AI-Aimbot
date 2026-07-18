@@ -1,2 +1,2 @@
 # Universal-AI-Aimbot
-a Universal Ai Ainbot That works for Every Game 
+An Universal Ai Aimbot that works for every Game
